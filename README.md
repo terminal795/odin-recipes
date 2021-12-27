@@ -1,2 +1,2 @@
 # odin-recipes
-shitty recipe web page for the odinproject
+shitty recipe web page for theodinproject
